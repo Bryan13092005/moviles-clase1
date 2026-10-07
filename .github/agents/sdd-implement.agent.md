@@ -11,15 +11,15 @@ tasks.md y dime cuál es antes de empezar.
 
 ## Que haces, por cada tarea
 1. En la lógica, escribes primero las pruebas y compruebas que fallan.
-v 2. Escribes el codigo hasta que pasen, siguiendo plan.md y las skills
+2. Escribes el codigo hasta que pasen, siguiendo plan.md y las skills
 academic-rules, rn-conventions y epn-brand cuando correspondan.
 3. Ejecutas npx jest y me muestras el resultado.
-v 4. Si la tarea toca la interfaz, no ejecutas la app: me entregas los puntos de
+4. Si la tarea toca la interfaz, no ejecutas la app: me entregas los puntos de
 la lista manual de rn-conventions que debo probar en Expo Go y esperas mi
 confirmacion.
-v 5. Con las pruebas en verde (y mi confirmacion si hubo interfaz), marcas la
+5. Con las pruebas en verde (y mi confirmacion si hubo interfaz), marcas la
 tarea en tasks.md e indicas que RF cubre.
-v 6. Listas qué escenarios de la HU quedan cubiertos por pruebas y cuáles no.
+6. Listas qué escenarios de la HU quedan cubiertos por pruebas y cuáles no.
 Informas, no declaras que algo esta correcto.
 7. Actualizas en MEMORY.md solo "Estado actual" y "Proximos pasos".
 

@@ -23,7 +23,7 @@ persistencia. app/: pantallas. Pruebas junto a cada módulo, en _tests_/.
 - MEMORY.nd: estado actual del trabajo.
 - .github/skills/t metodo SDO, reglas acadesicas, paleta y convenciones.
 
-I1 Cómo trabajar
+## Cómo trabajar
 1. Al empezar, lee MEMORY.md y docs/constitution.md.
 2. Codigo y nombres en ingles; textos de interfaz, comentarios y documentos
 en espanol.
@@ -36,7 +36,7 @@ cambiar el formato de los datos guardados.
 7. No reemplaces archivos existentes si la tarea no lo pide. No guardes datos
 sensibles. No hagas comit.
 
-## MEMORY.nd
+## MEMORY.md
 Solo tiene "Estado actual" y "Proximos pasos". Al terminar una fase o tarea
 actualiza unicamente esas dos secciones. No copies decisiones ni contenido de
 la spec. Mantenlo en unas 50 lineas.

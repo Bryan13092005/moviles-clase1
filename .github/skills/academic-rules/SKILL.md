@@ -23,12 +23,12 @@ supletorio.
 representar, validar y comparar las notas la decide la spec, no el agente.
 - Rechaza más de dos decimales, valores negativos y valores mayores a 20.
 
-#t Checklist de revisión
+## Checklist de revisión
 - [ ] ¿Se prueban los bordes 17.99, 18.00, 27.99 y 28.00?
 - [ ] ¿Se prueban 24.00 y 24.01 en la calificacion requerida?
 - [ ] ¿Se prueban 0.00, 20.00 y un tercer decimal (15.123)?
 - [ ] ¿Los bordes dan el estado correcto, sin errores de redondeo?
 - [ ] ¿Los mensajes son exactamente los de la spec?
 
-1t A1 terminar
+## Al terminar
 Indica que puntos del checklist has comprobado y como.
